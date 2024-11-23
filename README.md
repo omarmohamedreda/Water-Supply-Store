@@ -1,0 +1,1 @@
+Developed a CRUD-based water supply website using ASP.NET MVC, allowing users to create, read, edit, and delete products. Integrated Entity Framework for database management, Microsoft Identity for user authentication, and implemented features like product image uploads with validation and database seeding for streamlined content management.
