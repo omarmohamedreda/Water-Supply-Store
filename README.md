@@ -36,9 +36,9 @@ The Water Supply Store project is a web-based application that allows users to p
     ```
 
 ## Technologies Used ⚙️
-- HTML, CSS, JavaScript
-- Node.js
-- Express (if applicable)
+- MVC
+- EF Core
+- HTML, CSS
 
 ## Contributing 🤝
 1. Fork the repository. 🍴
