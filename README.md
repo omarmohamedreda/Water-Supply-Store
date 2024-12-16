@@ -47,5 +47,4 @@ The Water Supply Store project is a web-based application that allows users to p
 4. Push your changes to your fork. ⬆️
 5. Submit a pull request. 🔄
 
-## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📝
+
